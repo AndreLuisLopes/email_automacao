@@ -29,7 +29,7 @@ pip install pyautogui
 Este código simula interação com a interface do Gmail. Certifique-se de configurar corretamente os atalhos e testar antes de utilizar em situações reais.
 
 ## Autor
-André Luís
+Desenvolvido por André Luís Lopes
 [GitHub](https://github.com/AndreLuisLopes) • [Linkedin](https://www.linkedin.com/in/andre-luis-lopes/)
 
 ## Licença
